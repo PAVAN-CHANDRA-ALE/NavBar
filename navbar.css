@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+nav{
+   background-color:darkblue;
+   width: 100%;
+   position: fixed;
+}
+ul{
+    padding: 10px;
+    text-align: right;
+}
+li{ 
+    
+    background-color: aqua;
+    color:brown;
+    padding: 5px;
+    display:inline;
+}
+li:hover{
+    background-color:whitesmoke;
+    color:red;
+    cursor: pointer;
+}
